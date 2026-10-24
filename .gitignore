@@ -1,0 +1,16 @@
+build/
+dist/
+dist-*/
+install/
+.cache/
+.xmake/
+.vscode/
+compile_commands.json
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
